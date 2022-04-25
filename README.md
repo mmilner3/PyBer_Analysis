@@ -4,7 +4,7 @@ This project leverages ride share data around individual rides and cities to ass
 
 ### Results
 
-![https://github.com/mmilner3/PyBer_Analysis/blob/main/Resources/download%20(1).png] (This is an image) 
+![image](https://github.com/mmilner3/PyBer_Analysis/blob/main/Resources/download%20(1).png) 
 
 based on the above results we can see that Urban rides consistently top the total fare by week due to higher demand. However when we look at the fare by driver we can see that without this increased demand rural is actually the better fare per ride. This is likley because the rides are longer and stops are fewer. There are also fewer drivers in these areas meaning prices are likley higher. 
 
